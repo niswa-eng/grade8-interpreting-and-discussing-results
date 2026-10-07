@@ -1,0 +1,6 @@
+{
+  "name": "Handling Data: Teacher Board",
+  "description": "Cambridge Mathematics Stage 8 Unit 16 (Interpreting and discussing results) interactive whiteboard for teachers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
